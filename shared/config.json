@@ -1,0 +1,14 @@
+{  
+    "server": "datingserverfred.database.windows.net", 
+    "authentication": {
+        "type": "default",
+        "options": {
+            "userName": "Fredrox", 
+            "password": "Emp34vdx" 
+        }
+    },
+    "options": {
+        "encrypt": true,
+        "database": "datingDB"
+    }
+} 
